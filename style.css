@@ -101,4 +101,8 @@ header {
     display: flex;
     justify-content: start;
     width: 100%;
+    margin-left:40px;
+    gap: 20px;
+    align-items: center;
+    padding: 8px 0;
   }
